@@ -1,5 +1,5 @@
 ---
-name: User Story IBM Agile Course
+name: User Story template IBM course
 about: This template is for creating user stories
 title: ''
 labels: ''
